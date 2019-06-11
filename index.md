@@ -11,8 +11,7 @@ contributors:
 ---
 
 
-<iframe src="https://s3.amazonaws.com/uploads.knightlab.com/storymapjs/f6f8cf8ab31e9c13b2c05935dda85c7d/ling-9-shuang-and-tiauna/index.html" frameborder="0" width="100%" height="500">
-</iframe>
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1Vm6w4kMwICj621ZCF-wEnGTx49BZKxzm" width="640" height="480"></iframe>
 
 
 ## Introduction
