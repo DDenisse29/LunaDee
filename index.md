@@ -6,7 +6,7 @@ overlay_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Zombie
 contributors:
   - name: Eric Zuniga
     image: https://s3-us-west-1.amazonaws.com/co-directory-images/ericzuniga24.jpg
-    bio: Born in Conneticut, raised in Miami, Florida. Mechanical Engineer and Magic, the card game, player.
+    bio: Born in Conneticut, raised in Miami, Florida, living in Denver, Colorado. Mechanical Engineer and player of Magic.
     twitter: Dante940
 ---
 
