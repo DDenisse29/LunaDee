@@ -4,6 +4,10 @@ excerpt: 'Since the appropriation of the Haitian zonbi into American popular cul
 teaser: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Zombies_NightoftheLivingDead.jpg/640px-Zombies_NightoftheLivingDead.jpg"
 overlay_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Zombies_NightoftheLivingDead.jpg/640px-Zombies_NightoftheLivingDead.jpg"
 contributors:
+  - name: Denisse Solis
+    image: https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2FC5603AQGzZ4xMg2LKUw%2Fprofile-displayphoto-shrink_200_200%2F0%3Fe%3D1552521600%26v%3Dbeta%26t%3DER8Irs0MgE8WmXAi9j9HFMLuBRuGMZwB3JHLx5V3zo8&imgrefurl=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdenisse-solis-2a334064&docid=3zL36igo2_XaBM&tbnid=DUjjhK7eVGsVeM%3A&vet=10ahUKEwin9bnHmeLiAhVnc98KHQeJD5gQMwg9KAEwAQ..i&w=200&h=200&bih=770&biw=1368&q=Denisse%20Solis&ved=0ahUKEwin9bnHmeLiAhVnc98KHQeJD5gQMwg9KAEwAQ&iact=mrc&uact=8
+    bio: Born and raised in Miami, Fl. Librarian and fellow traveler.
+    twitter: Luna_dee
   - name: Eric Zuniga
     image: https://s3-us-west-1.amazonaws.com/co-directory-images/ericzuniga24.jpg
     bio: Born in Conneticut, raised in Miami, Florida, living in Denver, Colorado. Mechanical Engineer and player of Magic.
