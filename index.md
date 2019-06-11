@@ -5,7 +5,7 @@ teaser: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Zombies_Night
 overlay_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Zombies_NightoftheLivingDead.jpg/640px-Zombies_NightoftheLivingDead.jpg"
 contributors:
   - name: Denisse Solis
-    image: https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjputOLm-LiAhWFtlkKHVdlCYMQjRx6BAgBEAU&url=%2Furl%3Fsa%3Di%26source%3Dimages%26cd%3D%26ved%3D%26url%3Dhttps%253A%252F%252Fwww.eventscribe.com%252F2016%252FALA-Annual%252FfsPopup.asp%253FMode%253Dpresattendees%2526PresentationID%253D143751%26psig%3DAOvVaw1Tedi0fckUaxpkkYpSmfpN%26ust%3D1560369354044712&psig=AOvVaw1Tedi0fckUaxpkkYpSmfpN&ust=1560369354044712
+    image: https://media.licdn.com/dms/image/C5603AQGzZ4xMg2LKUw/profile-displayphoto-shrink_200_200/0?e=1565827200&v=beta&t=NDzPdmpfSZcnTGngeVTpAO1Aa2za3M3fLULuD7cVGt4
     bio: Born and raised in Miami, Fl. Librarian and fellow traveler.
     twitter: Luna_dee
   - name: Eric Zuniga
