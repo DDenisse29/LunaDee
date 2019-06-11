@@ -5,7 +5,7 @@ teaser: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Zombies_Night
 overlay_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Zombies_NightoftheLivingDead.jpg/640px-Zombies_NightoftheLivingDead.jpg"
 contributors:
   - name: Denisse Solis
-    image: https://media.licdn.com/dms/image/C5603AQGzZ4xMg2LKUw/profile-displayphoto-shrink_200_200/0?e=1565827200&v=beta&t=NDzPdmpfSZcnTGngeVTpAO1Aa2za3M3fLULuD7cVGt4
+    image: https://pbs.twimg.com/profile_images/1064799628636282880/fj8kfNL7_400x400.jpg
     bio: Born and raised in Miami, Fl. Librarian and fellow traveler.
     twitter: Luna_dee
   - name: Eric Zuniga
